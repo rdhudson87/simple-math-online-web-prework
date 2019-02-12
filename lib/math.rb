@@ -23,6 +23,6 @@ def square_root(num)
 end
 
 def order_of_operation(num1, num2, num3, num4)
-  98 +(59/(13*8) * -5)
+  7 + ((59/(13*8) * -5)
   #Hint:  __ + (( __ * __ ) / __ )
 end
